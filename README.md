@@ -9,8 +9,8 @@ Repositório para entregas das disciplinas Gestão de Processos de Negócio (IF9
 
 Equipe
 
-- Daniel Silva
-- Hugo Uraga
-- Jussara Silva
-- Myllena Almeida
-- Myllena Alves
+- [Daniel Silva](https://github.com/shirubadan) (djs)
+- [Hugo Uraga](https://github.com/hugouraga) (hiu)
+- [Jussara Silva](https://github.com/jussararodrigues) (jprs)
+- [Myllena Almeida](https://github.com/MyllenaAlmeida) (mrma2)
+- [Myllena Alves](#) (mal4)
