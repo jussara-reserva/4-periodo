@@ -1,10 +1,9 @@
-## Planejamento e Gerenciamento de Projetos (IF979)
+## Gestão de Processos de Negócio (IF978)
 
-Disciplina do curso de Sistemas de Informação, ministrada no Centro de Informática (CIn) da UFPE pelo professor Alexandre Vasconcelos (amlv). 
+Disciplina do curso de Sistemas de Informação, ministrada no Centro de Informática (CIn) da UFPE pela professora Carla Silva (ctlls). 
 
 ### Entregas
-- [Mind Maps](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/mind-maps)
-- PM Canvas
+- 
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
