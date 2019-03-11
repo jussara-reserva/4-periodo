@@ -13,4 +13,4 @@ Equipe
 - [Hugo Uraga](https://github.com/hugouraga) (hiu)
 - [Jussara Silva](https://github.com/jussararodrigues) (jprs)
 - [Myllena Almeida](https://github.com/MyllenaAlmeida) (mrma2)
-- [Myllena Alves](#) (mal4)
+- [Myllena Alves](https://github.com/myllenaalves) (mal4)
