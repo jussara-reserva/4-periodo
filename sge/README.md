@@ -1,10 +1,9 @@
-## Planejamento e Gerenciamento de Projetos (IF979)
+## Sistema de Gestão Empresarial (IF980)
 
-Disciplina do curso de Sistemas de Informação, ministrada no Centro de Informática (CIn) da UFPE pelo professor Alexandre Vasconcelos (amlv). 
+Disciplina do curso de Sistemas de Informação, ministrada no Centro de Informática (CIn) da UFPE pela professora Simone Santos (scs). 
 
 ### Entregas
-- [Mind Maps](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/mind-maps)
-- PM Canvas
+- 
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
