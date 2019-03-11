@@ -1,6 +1,6 @@
 ## Mind Maps
 
-~1. Cpnceitos e Fundamentos~
+1. ~Conceitos e Fundamentos~
 2. O Gerente de Projetos e as Estruturas Organizacionais
 3. Iniciando um Projeto: Termo de Abertura
 4. Gerência de Escopo
