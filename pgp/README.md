@@ -4,7 +4,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 
 ### Entregas
 - [Mind Maps](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/mind-maps)
-- PM Canvas
+- [PM Canvas](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/pm-canvas)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
