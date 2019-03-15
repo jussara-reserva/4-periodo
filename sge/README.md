@@ -3,7 +3,10 @@
 Disciplina do curso de Sistemas de Informação, ministrada no Centro de Informática (CIn) da UFPE pela professora Simone Santos (scs). 
 
 ### Entregas
-- 
+- Kick-off do Projeto (26/03)
+- 1º Status Report (16/04)
+- 2º Status Report (14/05)
+- Apresentação Final (21/06)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
