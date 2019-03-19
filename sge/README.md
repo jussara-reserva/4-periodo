@@ -9,6 +9,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - Apresentação Final (21/06)
 
 ### Equipe
+- Hiroito Miyakawa (hscm) - Gerente de Projetos
 - [Daniel Silva](https://github.com/shirubadan) (djs)
 - [Hugo Uraga](https://github.com/hugouraga) (hiu)
 - [Jussara Silva](https://github.com/jussararodrigues) (jprs)
