@@ -3,8 +3,12 @@
 Disciplina do curso de Sistemas de Informação, ministrada no Centro de Informática (CIn) da UFPE pelo professor Alexandre Vasconcelos (amlv). 
 
 ### Entregas
-- [Mind Maps](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/mind-maps)
 - [PM Canvas](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/pm-canvas)
+- [Mind Maps](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/mind-maps) - Toda sexta-feira
+- Kick-off do Projeto (29/03)
+- 1º Status Report (19/04)
+- 2º Status Report (17/05)
+- Apresentação Final (21/06)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
