@@ -3,7 +3,7 @@
 Disciplina do curso de Sistemas de Informação, ministrada no Centro de Informática (CIn) da UFPE pela professora Carla Silva (ctlls). 
 
 ### Entregas
-- 
+- Descrição em alto nível do Projeto (19/03)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
