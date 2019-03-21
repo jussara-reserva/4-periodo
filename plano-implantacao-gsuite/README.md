@@ -11,7 +11,11 @@
 | GP/Scrum Master | Desenvolvedor| Desenvolvedor | Desenvolvedora | Desenvolvedora | Desenvolvedora |
 
 ### Problema
-...
+Os principais problemas são:
+- A falta de autonomia do processo de comunicação na universidade;
+- A falta de um canal oficial, com um maior alcance, para divulgação de informações;
+- A não efetividade do e-mail institucional existente dentro da comunidade acadêmica;
+- A falta de integração entre os centros.
 
 ### Objetivo
 Elaborar um plano de implantação do módulo de integração entre os dados dos usuários do SIGAA e do SIGRH ao G-Suite, plataforma de e-mails corporativos, com o objetivo de utilizá-la como substituta do atual sistema de e-mails institucionais, o Zimbra.
