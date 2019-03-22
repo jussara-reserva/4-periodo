@@ -5,11 +5,11 @@
 [Artefatos](https://github.com/jussararodrigues/4-periodo/blob/master/plano-implantacao-gsuite/pages/Artefatos.md) | 
 [Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/plano-implantacao-gsuite/pages/Cronograma.md) |**
 
-### Documentos
+### Documentos (Geral)
 ---
 ...
 
-### Planejamento
+### Planejamento (PGP)
 ---
 #### Documentação
 - Termo de Abertura do Projeto
@@ -20,7 +20,7 @@
 - Diário 3
 - Diário 4
 
-### Modelagens
+### Modelagens (GPN)
 ---
 - AS-IS 
 - AS-IS
@@ -29,6 +29,6 @@
 ### Apresentações
 ---
 | Kick-Off | 1º Status Report | 2º Status Report | Apresentação Final |
-|:----------:|:-------------------:|:--------------------:|:--------:|
-| SGE | SGE | SGE | SGE |
-| PGP | PGP | PGP | PGP |
+|:--------:|:----------------:|:----------------:|:------------------:|
+| SGE      | SGE              | SGE              | SGE                |
+| PGP      | PGP              | PGP              | PGP                |
