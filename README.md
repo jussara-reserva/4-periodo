@@ -1,9 +1,9 @@
 ## Plano de Impantação do Módulo de e-mails G-Suite
 
 **| [Home](https://github.com/jussararodrigues/4-periodo/tree/master/plano-implantacao-gsuite) | 
-[Ferramentas](https://github.com/jussararodrigues/4-periodo/blob/master/plano-implantacao-gsuite/pages/Ferramentas.md) | 
-[Artefatos](https://github.com/jussararodrigues/4-periodo/blob/master/plano-implantacao-gsuite/pages/Artefatos.md) | 
-[Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/plano-implantacao-gsuite/pages/Cronograma.md) |**
+[Artefatos](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Artefatos.md) | 
+[Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Cronograma.md) |
+[Ferramentas](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Ferramentas.md) |**
 
 ### Equipe
 |Hiroito Miyakawa (hscm)| Daniel Silva (djs) | Hugo Uraga (hiu) | Jussara Silva (jprs) | Myllena Almeida (mrma2) | Myllena Alves (mal4) |
