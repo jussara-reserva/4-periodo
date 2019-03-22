@@ -11,6 +11,7 @@
 
 ### Planejamento (PGP)
 ---
+
 #### Documentação
 - Termo de Abertura do Projeto
 
@@ -22,9 +23,10 @@
 
 ### Modelagens (GPN)
 ---
-- AS-IS 
-- AS-IS
-- TO-BE
+- Modelo BPMN do processo AS-IS da Universidade.
+- Modelo I*.
+- Modelo de Análise (Ishikawa).
+- Modelo SD e BPMN (Processo TO-BE + Indicadores).
 
 ### Apresentações
 ---
