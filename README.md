@@ -1,6 +1,6 @@
 ## Plano de Impantação do Módulo de e-mails G-Suite
 
-**| [Home](https://github.com/jussararodrigues/4-periodo/tree/master/plano-implantacao-gsuite) | 
+**| [Home](https://github.com/jussararodrigues/4-periodo) | 
 [Artefatos](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Artefatos.md) | 
 [Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Cronograma.md) |
 [Ferramentas](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Ferramentas.md) |**
