@@ -36,7 +36,7 @@
 
 #### Até a Apresentação do Modelo SD e BPMN - Processo TO-BE  + Indicadores (GPN)
 -
-- **Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
+- **04/06/2019: Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
 
 #### Até a Apresentação Final (SGE, PGP e GPN)
 - 
