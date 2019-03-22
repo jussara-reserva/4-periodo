@@ -40,4 +40,5 @@
 
 #### Até a Apresentação Final (SGE, PGP e GPN)
 - 
+- **13/06/2019: Entrega do documento de processo de negócio completo (GPN).**
 - **21/06/2019: Apresentação Final (SGE, PGP e GPN).**
