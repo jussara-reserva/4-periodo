@@ -1,4 +1,4 @@
-## Plano de Impantação do Módulo de e-mails G-Suite
+## G-Team
 
 **| [Home](https://github.com/jussararodrigues/4-periodo/blob/master/README.md) | 
 [Artefatos](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Artefatos.md) | 
@@ -7,8 +7,8 @@
 
 ### Equipe
 |Hiroito Miyakawa (hscm)| Daniel Silva (djs) | Hugo Uraga (hiu) | Jussara Silva (jprs) | Myllena Almeida (mrma2) | Myllena Alves (mal4) |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| GP/Scrum Master | Desenvolvedor| Desenvolvedor | Desenvolvedora | Desenvolvedora | Desenvolvedora |
+|:---------------------:|:------------------:|:----------------:|:--------------------:|:-----------------------:|:--------------------:|
+| GP/Scrum Master       | Desenvolvedor      | Desenvolvedor    | Desenvolvedora       | Desenvolvedora          | Desenvolvedora       |
 
 ### Problema
 Os principais problemas são:
