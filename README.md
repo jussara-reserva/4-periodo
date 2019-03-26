@@ -11,12 +11,7 @@
 
 ### Equipe
 
-| ![hiro](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hiroito.png) 
-| ![daniel](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/daniel.png) 
-| ![hugo](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hugo.png) 
-| ![jussara](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/jussara.png) 
-| ![myllena-almeida](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-almeida.png) 
-| ![myllena-alves](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-alves.png) |
+| ![hiro](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hiroito.png) | ![daniel](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/daniel.png)  | ![hugo](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hugo.png)  | ![jussara](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/jussara.png)  | ![myllena-almeida](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-almeida.png)  | ![myllena-alves](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-alves.png) |
 |:---------------------:|:------------------:|:----------------:|:--------------------:|:-----------------------:|:-------------------:|
 |Hiroito Miyakawa (hscm)| Daniel Silva (djs) | Hugo Uraga (hiu) | Jussara Silva (jprs) | Myllena Almeida (mrma2) | Myllena Alves (mal4)|
 | GP/Scrum Master       | Desenvolvedor      | Desenvolvedor    | Desenvolvedora       | Desenvolvedora          | Desenvolvedora      |
