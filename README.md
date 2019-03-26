@@ -1,4 +1,4 @@
-![team-logo](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/logo.png)
+![team-logo](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/logo-team.png)
 
 ---
 
