@@ -30,7 +30,7 @@
 
 ### Apresentações
 ---
-| Kick-Off | 1º Status Report | 2º Status Report | Apresentação Final |
-|:--------:|:----------------:|:----------------:|:------------------:|
-| SGE      | SGE              | SGE              | SGE                |
-| PGP      | PGP              | PGP              | PGP                |
+| Kick-Off                                                | 1º Status Report | 2º Status Report | Apresentação Final |
+|:-------------------------------------------------------:|:----------------:|:----------------:|:------------------:|
+|[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)| SGE              | SGE              | SGE                |
+|[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)| PGP              | PGP              | PGP                |
