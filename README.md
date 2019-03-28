@@ -14,7 +14,7 @@
 | ![hiro](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hiroito.png) | ![daniel](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/daniel.png)  | ![hugo](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hugo.png)  | ![jussara](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/jussara.png)  | ![myllena-almeida](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-almeida.png)  | ![myllena-alves](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-alves.png) |
 |:---------------------:|:------------------:|:----------------:|:--------------------:|:-----------------------:|:-------------------:|
 |Hiroito Miyakawa (hscm)| [Daniel Silva](https://github.com/shirubadan) (djs) | [Hugo Uraga](https://github.com/hugouraga) (hiu) | [Jussara Silva](https://github.com/jussararodrigues) (jprs) | [Myllena Almeida](https://github.com/MyllenaAlmeida) (mrma2) | [Myllena Alves](https://github.com/myllenaalves) (mal4)|
-| GP/Scrum Master       | Desenvolvedor      | Desenvolvedor    | Desenvolvedora       | Desenvolvedora          | Desenvolvedora      |
+| Desenvolvedor       | Desenvolvedor      | Desenvolvedor    | Desenvolvedora       | Desenvolvedora          | GP/Scrum Master      |
 
 ---
 ### Problema
