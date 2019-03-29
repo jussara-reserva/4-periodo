@@ -11,10 +11,10 @@
 
 ### Equipe
 
-| ![hiro](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hiroito.png) | ![daniel](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/daniel.png)  | ![hugo](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hugo.png)  | ![jussara](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/jussara.png)  | ![myllena-almeida](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-almeida.png)  | ![myllena-alves](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-alves.png) |
+| ![myllena-alves](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-alves.png)  | ![daniel](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/daniel.png)  | ![hiro](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hiroito.png)  | ![hugo](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/hugo.png)  | ![jussara](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/jussara.png)  | ![myllena-almeida](https://github.com/jussararodrigues/4-periodo/blob/master/pages/team/myllena-almeida.png)  |
 |:---------------------:|:------------------:|:----------------:|:--------------------:|:-----------------------:|:-------------------:|
-|[Hiroito Miyakawa](https://github.com/hscm)(hscm)| [Daniel Silva](https://github.com/shirubadan) (djs) | [Hugo Uraga](https://github.com/hugouraga) (hiu) | [Jussara Silva](https://github.com/jussararodrigues) (jprs) | [Myllena Almeida](https://github.com/MyllenaAlmeida) (mrma2) | [Myllena Alves](https://github.com/myllenaalves) (mal4)|
-| Desenvolvedor       | Desenvolvedor      | Desenvolvedor    | Product Owner       | Desenvolvedora          | GP/Scrum Master      |
+| [Myllena Alves](https://github.com/myllenaalves) (mal4) | [Daniel Silva](https://github.com/shirubadan) (djs) | [Hiroito Miyakawa](https://github.com/hscm)(hscm)| [Hugo Uraga](https://github.com/hugouraga) (hiu) | [Jussara Silva](https://github.com/jussararodrigues) (jprs) | [Myllena Almeida](https://github.com/MyllenaAlmeida) (mrma2) | 
+| GP/Scrum Master       | Desenvolvedor      | Desenvolvedor    | Desenvolvedor       | Product Owner          | Desenvolvedora     |
 
 ---
 ### Problema
