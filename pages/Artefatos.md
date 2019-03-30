@@ -7,7 +7,7 @@
 
 ### Documentos (Geral)
 ---
-- [Atas de Reuniões]()
+- Atas de Reuniões
 
 ### Planejamento (PGP)
 ---
