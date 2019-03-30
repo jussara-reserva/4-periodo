@@ -11,7 +11,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - Apresentação Final (21/06)
 
 ### Documentos
-- [Termo de Abertura de Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto.pdf)
+- [Termo de Abertura do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto.pdf)
 
 ### Diários
 - [Diário 1 (21/02 à 29/03)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
