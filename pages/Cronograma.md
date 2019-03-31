@@ -11,14 +11,14 @@
 
 #### Até os Kick-offs (SGE e PGP)
 - 28/02/2019: Elaboração do 5W2H e Modelo de Deslile - Entendimento Inicial do Problema (SGE).
-- 12/03/2019: Reunião com Marlos - Confirmação de Hipóteses (SGE).
+- 12/03/2019: Reunião com Marlos - Confirmação de Hipóteses (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/12-03%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - 19/03/2019: Reunião de Time - Nivelamento de Informações sobre o Problema (SGE).
 - 10-24/03/2019: Elaboração do Termo de Abertura do Projeto (PGP).
 - **26/03/2019: Kick-off (SGE) - Apresentação do Entendimento Inicial do Problema.**
 - **29/03/2019: Kick-off (PGP) - Apresentação do Termo de Abertura do Projeto.**
 
 #### Até a entrega do Documento de Processo de Negócio Parcial (GPN)
-- 28/03/2019: Reunião de Time - Retrospectiva da Sprint 0 (Modificações de papéis, comunicação e cronograma).
+- 28/03/2019: Reunião de Time - Retrospectiva da Sprint 0 (Modificações de papéis, comunicação e cronograma) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/28-03%20%7C%20Retrospectiva%20da%20Sprint%200.md).
 - **09/04/2019: Apresentação do modelo BPMN do processo AS-IS da Universidade (GPN).**
 - **09/04/2019: Entrega do Documento de Processo de Negócio Parcial - Contendo o modelo BPMN do processo AS-IS da Universidade (GPN).**
 
