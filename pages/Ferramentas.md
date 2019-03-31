@@ -7,10 +7,11 @@
 
 #### Ferramentas utilizadas pela equipe ao decorrer do projeto.
 
-| Ferramenta | Finalidade                           |
-|:-----------|:-------------------------------------|
-| Whatsapp   | Comunicação Interna                  |
-| Slack      | Comunicação Externa (Com o cliente)  |
-| Trello     | Gerenciamento de prazos e atividades |
-| GitHub     | Armazenamento de Artefatos           |
-| Scrum      | Gerenciamento do Projeto             |
+| Ferramenta   | Finalidade                                             |
+|:-------------|:-------------------------------------------------------|
+| Whatsapp     | Comunicação Interna (informal)                         |
+| Slack        | Comunicação Interna (formal) e Externa (Com o cliente) |
+| Trello       | Gerenciamento de prazos e atividades                   |
+| GitHub       | Armazenamento de Artefatos                             |
+| Google Drive | Armazenamento de Documentos em construção              | 
+| Scrum        | Gerenciamento do Projeto                               |
