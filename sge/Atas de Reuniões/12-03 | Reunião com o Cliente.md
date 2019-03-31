@@ -15,7 +15,7 @@
 
 ---
 
-### Entendimento do Problema
+### Confirmação de Hipóteses
 
 ---
 
