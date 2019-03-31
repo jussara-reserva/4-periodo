@@ -7,7 +7,7 @@
 
 - Reuniões: Semanais (A definir).
 
-### Cronograma alinhado à disciplina
+### Cronograma alinhado às disciplinas
 
 #### Até os Kick-offs (SGE e PGP)
 - 28/02/2019: Elaboração do 5W2H e Modelo de Deslile - Entendimento Inicial do Problema (SGE).
