@@ -5,7 +5,7 @@
 [Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Cronograma.md) |
 [Ferramentas](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Ferramentas.md) |**
 
-- Reuniões:
+- Reuniões: Semanais (A definir).
 
 ### Cronograma alinhado à disciplina
 
