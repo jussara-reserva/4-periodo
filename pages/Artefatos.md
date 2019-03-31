@@ -7,7 +7,8 @@
 
 ### Documentos (Geral)
 ---
-- Atas de Reuniões
+
+- [Atas de Reuniões](https://github.com/jussararodrigues/4-periodo/tree/master/sge/Atas%20de%20Reuni%C3%B5es)
 
 ### Planejamento (PGP)
 ---
