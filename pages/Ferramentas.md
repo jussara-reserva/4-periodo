@@ -12,6 +12,6 @@
 | Whatsapp     | Comunicação Interna (informal)                         |
 | Slack        | Comunicação Interna (formal) e Externa (Com o cliente) |
 | Trello       | Gerenciamento de prazos e atividades                   |
-| GitHub       | Armazenamento de Artefatos                             |
-| Google Drive | Armazenamento de Documentos em construção              | 
+| Google Drive | Armazenamento de Artefatos (em construção)             |
+| GitHub       | Armazenamento de Artefatos (finalizados)               |
 | Scrum        | Gerenciamento do Projeto                               |
