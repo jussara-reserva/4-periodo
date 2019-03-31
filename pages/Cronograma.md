@@ -5,7 +5,7 @@
 [Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Cronograma.md) |
 [Ferramentas](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Ferramentas.md) |**
 
-- Reuniões: Semanais (a definir).
+- Reuniões: Semanais (O dia será definido semanalmente dependendo da disponibilidade do time).
 
 ### Cronograma alinhado às disciplinas
 
@@ -18,7 +18,7 @@
 - **29/03/2019: Kick-off (PGP) - Apresentação do Termo de Abertura do Projeto.**
 
 #### Até a entrega do Documento de Processo de Negócio Parcial (GPN)
-- 28/03/2019: Reunião de Time - Retrospectiva do Sprint (Modificações de papéis, comunicação e cronograma).
+- 28/03/2019: Reunião de Time - Retrospectiva da Sprint 0 (Modificações de papéis, comunicação e cronograma).
 - **09/04/2019: Apresentação do modelo BPMN do processo AS-IS da Universidade (GPN).**
 - **09/04/2019: Entrega do Documento de Processo de Negócio Parcial - Contendo o modelo BPMN do processo AS-IS da Universidade (GPN).**
 
