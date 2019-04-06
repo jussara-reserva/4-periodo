@@ -21,14 +21,14 @@
 
 #### Tópicos Discutidos
 
-- **Redefinição dos pontos negativos da SPRINT 1**
+- **Redefinição dos pontos negativos da SPRINT 0**
 	- Canal de comunicação principal com o cliente será o email, mas o slack e o whatsapp são alternativas em caso de não retorno.
 	- Maior delineamento do problema e mudança de foco.
 
 - **O que é válido e o que não é válido:**
 	- É uma questão de custo-benefício (Zimbra -> GSUITE)
-	- Integração do UFPE_ID com a nova base dados (SIGAA/SIGRH) 
 	- O Zimbra além de não se encaixar nas necessidades da comunidade acadêmica,possui um custo de gerenciamento muito alto.
+	- Integração do UFPE_ID com a nova base dados (SIGAA/SIGRH) 
 	- Preocupação com a migração dos usuários do Zimbra para G Suíte.
 
 
