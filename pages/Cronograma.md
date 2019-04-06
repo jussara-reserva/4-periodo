@@ -19,7 +19,7 @@
 
 #### Até a entrega do Documento de Processo de Negócio Parcial (GPN)
 - 28/03/2019: Reunião de Time - Retrospectiva da Sprint 0 (Modificações de papéis, comunicação e cronograma) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/28-03%20%7C%20Retrospectiva%20da%20Sprint%200.md).
-- 05/04/2019: Reunião com Marlos - Feedbacks, Validações e Processos (SGE, GPN e PGP) [[Ata da reunião]]().
+- 05/04/2019: Reunião com Marlos - Feedbacks, Validações e Processos (SGE, GPN e PGP) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/05-04%20%7C%20Planejamento%20Sprint%201.md).
 - **09/04/2019: Apresentação do modelo BPMN do processo AS-IS da Universidade (GPN).**
 - **09/04/2019: Entrega do Documento de Processo de Negócio Parcial - Contendo o modelo BPMN do processo AS-IS da Universidade (GPN).**
 
