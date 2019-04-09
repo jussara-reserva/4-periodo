@@ -21,10 +21,10 @@
 
 ### Modelagens (GPN)
 ---
-- [Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS).
-- Modelo I*.
-- Modelo de Análise (Ishikawa).
-- Modelo SD e BPMN (Processo TO-BE + Indicadores).
+- [Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS)
+- Modelo I*
+- Modelo de Análise (Ishikawa)
+- Modelo SD e BPMN (Processo TO-BE + Indicadores)
 
 ### Apresentações
 ---
@@ -33,6 +33,6 @@
 |[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)| SGE              | SGE              | SGE                |
 |[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)| PGP              | PGP              | PGP                |
 
-| Modelagens AS-IS |
-|:----------------:|
-| [GPN]()          |
+| Modelagens AS-IS                                            |
+|:-----------------------------------------------------------:|
+| [GPN](https://slides.com/myllenaalves/kickoff-1/fullscreen) |
