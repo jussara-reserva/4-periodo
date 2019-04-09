@@ -4,6 +4,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 
 ### Entregas
 - ~Descrição em alto nível do Projeto (19/03)~
+- Modelagens AS-IS (09/04)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
