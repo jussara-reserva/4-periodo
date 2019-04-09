@@ -21,7 +21,7 @@
 
 ### Modelagens (GPN)
 ---
-- Modelo BPMN do processo AS-IS da Universidade.
+- [Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS).
 - Modelo I*.
 - Modelo de Análise (Ishikawa).
 - Modelo SD e BPMN (Processo TO-BE + Indicadores).
@@ -32,3 +32,7 @@
 |:-------------------------------------------------------:|:----------------:|:----------------:|:------------------:|
 |[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)| SGE              | SGE              | SGE                |
 |[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)| PGP              | PGP              | PGP                |
+
+| Modelagens AS-IS |
+|:----------------:|
+| [GPN]()          |
