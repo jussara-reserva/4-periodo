@@ -10,8 +10,8 @@
 * Daniel Silva
 * Hiroito Miyakawa
 * Jussara Silva 
-* Myllena Alves
-* Myllena Almeida 
+* Myllena Alves (Scrum Master)
+* Myllena Almeida (PO)
 * Marlos Ribeiro (Cliente) 
 
 ---
