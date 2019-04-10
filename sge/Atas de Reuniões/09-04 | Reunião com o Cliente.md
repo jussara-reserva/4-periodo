@@ -21,14 +21,14 @@
 ---
 
 #### Tópicos Discutidos
-- Funcionamento do UFPE_ID
+- **Funcionamento do UFPE_ID**
   - Como será utilizado pelo usuário (aluno/servidor)?
   - Como será realizada a integração da autenticação com os SIG's?
   - O que já está funcionando?
-- Problemas para a integração com o G-Suite
-- Validação das modelagens AS-IS
-- Dicas para o 1º Status Report
-- Data e ações para a próxima reunião
+- **Problemas para a integração com o G-Suite**
+- **Validação das modelagens AS-IS**
+- **Dicas para o 1º Status Report**
+- **Data e ações para a próxima reunião**
   
 ---
 
