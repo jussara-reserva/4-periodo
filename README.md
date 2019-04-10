@@ -27,4 +27,4 @@ Os principais problemas são:
 Elaborar um plano de implantação do módulo de integração entre os dados dos usuários do SIGAA, SIGRH e demais SIG's da UFPE
 
 ### Justificativa
-Com o advento da implantação do SIGAA e SIGRH, se faz necessário uma remodelagem das regras de negócio no sistema de integração projetado pelo NTI. O UFPE_ID é um sistema que começou a ser desenvolvido pelo NTI com o objetivo de fornecer uma autenticação única para todos os SIG’s disponíveis para comunidade acadêmica, incluindo também, a implantação de uma nova plataforma de email institucional, o GMAIL (G-SUITE). 
+Com o advento da implantação do SIGAA, SIGRH e a substituição do Zimbra (email institucional) pela plataforma do G-Suite, se faz necessário uma remodelagem das regras de negócio no sistema de integração projetado pelo NTI. O UFPE_ID é um sistema que começou a ser desenvolvido pelo NTI com o objetivo de fornecer uma autenticação única para todos os SIG’s disponíveis para comunidade acadêmica.
