@@ -19,11 +19,13 @@
 #### Diários de Atividades
 - [Diário 1 (21/02/2019 à 29/03/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
 
-### Documentação (GPN)
+### Processos de Negócio (GPN)
+---
+
+#### Documentação
 - [Documento de Processo de Negócio (Parcial) - Com Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Plano%20de%20implanta%C3%A7%C3%A3o%20do%20m%C3%B3dulo%20de%20integra%C3%A7%C3%A3o%20%C3%BAnica%20.pdf)
 
-### Modelagens (GPN)
----
+#### Modelagens
 - [Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS)
 - Modelo I*
 - Modelo de Análise (Ishikawa)
