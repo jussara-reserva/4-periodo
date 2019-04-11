@@ -24,7 +24,8 @@
 - **09/04/2019: Entrega do Documento de Processo de Negócio Parcial - Contendo o modelo BPMN do processo AS-IS da Universidade (GPN).**
 
 #### Até os 1ºs Status Report (SGE e PGP)
-- 09/04/2019: Reunião com Marlos (SGE).
+- 09/04/2019: Reunião com Marlos (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/09-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
+- 11/04/2019: Reunião com Marlos (SGE).
 - **16/04/2019: 1º Status Report (SGE).**
 - **19/04/2019: 1 Status Report (PGP).**
 
