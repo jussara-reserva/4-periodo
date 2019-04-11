@@ -40,6 +40,6 @@
 | Revisão da planilha Modelo de Deslile                                                           | Daniel Silva                 |
 | Revisão da planilha Descrição do Problema                                                       | Myllena Almeida (PO)         |
 | Conclusão da planilha Fatores Críticos de Sucesso                                               | Hiroito Miyakawa             |
-| Elaboração de apresentação para Marlos do novo entendimento do problema                         | Time                         |
+| Elaboração de apresentação para Marlos do novo entendimento do problema                         | Myllena Alves (Scrum Master) |
 | Criação da Declaração de Escopo, EAP/lista de Requisitos e Plano de Gestão do Escopo/Requisitos | Myllena Alves (Scrum Master) |
  
