@@ -26,6 +26,7 @@
 #### Até os 1ºs Status Report (SGE e PGP)
 - 09/04/2019: Reunião com Marlos (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/09-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - 12/04/2019: Reunião com Marlos (SGE) [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/12-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
+- xx/04/2019: Retrospectiva da Sprint 1.
 - **23/04/2019: 1º Status Report (SGE).**
 - **26/04/2019: 1 Status Report (PGP).**
 
