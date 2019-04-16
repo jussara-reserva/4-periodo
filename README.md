@@ -21,7 +21,7 @@
 Os principais problemas são:
 - A falta de integração entre os SIG's da UFPE;
 - A necessidade de uma autenticação única;
-- A não efetividade do e-mail institucional existente dentro da comunidade acadêmica;
+- A não efetividade do e-mail institucional existente.
 
 
 ### Objetivo
