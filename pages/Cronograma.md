@@ -28,7 +28,7 @@
 - 12/04/2019: Reunião com Marlos (SGE) [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/12-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - xx/04/2019: Criação da Declaração de Escopo (PGP) [[Disponível aqui]]().
 - xx/04/2019: Criação da EAP/Lista de Requisitos (PGP) [[Disponível aqui]]().
-- Criação do Plano de Gestão de Escopo/Requisitos (PGP) [[Disponível aqui]]().
+- xx/04/2019: Criação do Plano de Gestão de Escopo/Requisitos (PGP) [[Disponível aqui]]().
 - 16/04/2019: Reunião de Time - Retrospectiva da Sprint 1 [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/16-04%20%7C%20Retrospectiva%20da%20Sprint%201.md).
 - 17/04/2019: Criação do Plano de Gerenciamento de Recursos Humanos (PGP) [[Disponível aqui]]().
 - 18/04/2019: Criação do Plano de Gerenciamento de Comunicações (PGP) [[Disponível aqui]]().
