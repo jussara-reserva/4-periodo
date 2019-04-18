@@ -36,21 +36,16 @@
 - **26/04/2019: 1 Status Report (PGP).**
 
 #### Até a apresentação do Modelo I* e de Análise (GPN)
-- 
-- 
 - **07/05/2019: Apresentação do Modelo I\* e de Análise (Ishikawa) (GPN).**
 - **07/05/2019: Entrega do Documento de Processo de Negócio Parcial - Incluindo o Modelo I\* do Processo AS-IS com a Análise do Processo (GPN).**
 
 #### Até os 2ºs Status Report (SGE e PGP)
-- 
 - **14/05/2019: 2º Status Report (SGE).**
 - **17/05/2019: 2º Status Report (PGP).**
 
 #### Até a Apresentação do Modelo SD e BPMN - Processo TO-BE  + Indicadores (GPN)
--
 - **04/06/2019: Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
 
 #### Até a Apresentação Final (SGE, PGP e GPN)
-- 
 - **13/06/2019: Entrega do documento de processo de negócio completo (GPN).**
 - **21/06/2019: Apresentação Final (SGE, PGP e GPN).**
