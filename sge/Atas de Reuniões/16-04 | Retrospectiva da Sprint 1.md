@@ -15,21 +15,21 @@
 
 ---
 
-### Retrospectiva da Sprint 0
+### Retrospectiva da Sprint 1
 
 ---
 
 #### Tópicos Discutidos
 
 - **O que funcionou bem:**
-	- A troca de papéis.
+  - A troca de papéis.
   - A comunicação com Marlos.
   - A divisão de tarefas e cumprimento dos prazos.
   - A comunicação do time.
   - O entendimento do problema.
 
 - **O que pode ser melhorado:**
-	- Organização para a apresentação.
+  - Organização para a apresentação.
   - Retorno mais ágil das mensagens no canal de comunicação (Slack).
   
 ---
