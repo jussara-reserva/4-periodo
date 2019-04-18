@@ -13,7 +13,7 @@
 - 28/02/2019: Elaboração do 5W2H e Modelo de Deslile - Entendimento Inicial do Problema (SGE).
 - 12/03/2019: Reunião com Marlos - Confirmação de Hipóteses (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/12-03%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - 19/03/2019: Reunião de Time - Nivelamento de Informações sobre o Problema (SGE).
-- 10-24/03/2019: Elaboração do Termo de Abertura do Projeto (PGP).
+- 10-24/03/2019: Criação do Termo de Abertura do Projeto (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto%20(Revisado).pdf).
 - **26/03/2019: Kick-off (SGE) - Apresentação do Entendimento Inicial do Problema.**
 - **29/03/2019: Kick-off (PGP) - Apresentação do Termo de Abertura do Projeto.**
 
@@ -26,14 +26,23 @@
 #### Até os 1ºs Status Report (SGE e PGP)
 - 09/04/2019: Reunião com Marlos (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/09-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - 12/04/2019: Reunião com Marlos (SGE) [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/12-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
-- 15/04/2019: Reunião de Time - Retrospectiva da Sprint 1 [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/16-04%20%7C%20Retrospectiva%20da%20Sprint%201.md).
+- xx/04/2019: Criação da Declaração de Escopo (PGP) [[Disponível aqui]]().
+- xx/04/2019: Criação da EAP/Lista de Requisitos (PGP) [[Disponível aqui]]().
+- Criação do Plano de Gestão de Escopo/Requisitos (PGP) [[Disponível aqui]]().
+- 16/04/2019: Reunião de Time - Retrospectiva da Sprint 1 [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/16-04%20%7C%20Retrospectiva%20da%20Sprint%201.md).
+- 17/04/2019: Criação do Plano de Gerenciamento de Recursos Humanos (PGP) [[Disponível aqui]]().
+- 18/04/2019: Criação do Plano de Gerenciamento de Comunicações (PGP) [[Disponível aqui]]().
 - **23/04/2019: 1º Status Report (SGE).**
 - **26/04/2019: 1 Status Report (PGP).**
 
-#### Até os 2ºs Status Report (SGE e PGP) e Apresentação do Modelo I* e de Análise (GPN)
+#### Até a apresentação do Modelo I* e de Análise (GPN)
 - 
-- **07/05/2019: Entrega do Documento de Processo de Negócio Parcial - Incluindo o Modelo I\* do Processo AS-IS com a Análise do Processo (GPN).**
+- 
 - **07/05/2019: Apresentação do Modelo I\* e de Análise (Ishikawa) (GPN).**
+- **07/05/2019: Entrega do Documento de Processo de Negócio Parcial - Incluindo o Modelo I\* do Processo AS-IS com a Análise do Processo (GPN).**
+
+#### Até os 2ºs Status Report (SGE e PGP)
+- 
 - **14/05/2019: 2º Status Report (SGE).**
 - **17/05/2019: 2º Status Report (PGP).**
 
