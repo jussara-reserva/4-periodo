@@ -26,12 +26,12 @@
 #### Até os 1ºs Status Report (SGE e PGP)
 - 09/04/2019: Reunião com Marlos (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/09-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - 12/04/2019: Reunião com Marlos (SGE) [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/12-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
-- xx/04/2019: Criação da Declaração de Escopo (PGP) [[Disponível aqui]]().
-- xx/04/2019: Criação da EAP/Lista de Requisitos (PGP) [[Disponível aqui]]().
-- xx/04/2019: Criação do Plano de Gestão de Escopo/Requisitos (PGP) [[Disponível aqui]]().
+- 15/04/2019: Criação da Declaração de Escopo (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Declara%C3%A7%C3%A3o%20de%20Escopo%20do%20Projeto%20.pdf).
+- 15/04/2019: Criação do Plano de Gestão de Escopo/Requisitos (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf).
 - 16/04/2019: Reunião de Time - Retrospectiva da Sprint 1 [[Ata de Reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/16-04%20%7C%20Retrospectiva%20da%20Sprint%201.md).
-- 17/04/2019: Criação do Plano de Gerenciamento de Recursos Humanos (PGP) [[Disponível aqui]]().
-- 18/04/2019: Criação do Plano de Gerenciamento de Comunicações (PGP) [[Disponível aqui]]().
+- 17/04/2019: Criação do Plano de Gerenciamento de Recursos Humanos (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20RH.pdf).
+- 18/04/2019: Criação do Plano de Gerenciamento de Comunicações (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.pdf).
+- 18/04/2019: Criação da EAP/Lista de Requisitos (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/EAP%20Descri%C3%A7%C3%A3o.pdf).
 - **23/04/2019: 1º Status Report (SGE).**
 - **26/04/2019: 1 Status Report (PGP).**
 
