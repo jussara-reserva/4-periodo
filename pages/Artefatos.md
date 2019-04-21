@@ -23,7 +23,7 @@
 
 #### Diários de Atividades
 - [Diário 1 (21/02/2019 à 29/03/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
-- [Diário 2 (01/04 à 26/04)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Di%C3%A1rio%20de%20Atividades%202%20(01_04%20%20-%2026_04).pdf)
+- [Diário 2 (01/04/2019 à 26/04/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Di%C3%A1rio%20de%20Atividades%202%20(01_04%20%20-%2026_04).pdf)
 
 ### Processos de Negócio (GPN)
 ---
