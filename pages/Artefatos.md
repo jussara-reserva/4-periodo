@@ -5,6 +5,8 @@
 [Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Cronograma.md) |
 [Ferramentas](https://github.com/jussararodrigues/4-periodo/blob/master/pages/Ferramentas.md) |**
 
+---
+
 ### Documentos (Geral)
 ---
 
