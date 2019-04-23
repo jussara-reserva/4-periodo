@@ -9,6 +9,8 @@
 
 - Reuniões: Semanais (o dia será definido semanalmente dependendo da disponibilidade do time).
 
+---
+
 ### Cronograma alinhado às disciplinas
 
 #### Até os Kick-offs (SGE e PGP)
