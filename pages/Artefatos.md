@@ -39,10 +39,10 @@
 
 ### Apresentações
 ---
-| Kick-Off                                                | 1º Status Report | 2º Status Report | Apresentação Final |
-|:-------------------------------------------------------:|:----------------:|:----------------:|:------------------:|
-|[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)| SGE              | SGE              | SGE                |
-|[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)| PGP              | PGP              | PGP                |
+| Kick-Off                                                | 1º Status Report                                          | 2º Status Report | Apresentação Final |
+|:-------------------------------------------------------:|:---------------------------------------------------------:|:-------------:|:----------------:|
+|[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)|[SGE](https://slides.com/myllenaalves/kickoff-2/fullscreen)| SGE              | SGE                |
+|[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)| PGP                                                       | PGP              | PGP                |
 
 | Modelagens AS-IS                                            |
 |:-----------------------------------------------------------:|
