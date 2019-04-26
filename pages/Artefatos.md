@@ -21,7 +21,7 @@
 - [Plano de Gerenciamento das Comunicações](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.pdf)
 - [Plano de Gerenciamento de Escopo do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf)
 - [Plano de Gerenciamento de RH](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20RH.pdf)
-- [Estrutura analítica do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/EAP%20Descri%C3%A7%C3%A3o.pdf)
+- [Estrutura Analítica do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/EAP%20Descri%C3%A7%C3%A3o.pdf)
 
 #### Diários de Atividades
 - [Diário 1 (21/02/2019 à 29/03/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
@@ -44,7 +44,7 @@
 | Kick-Off                                                | 1º Status Report                                          | 2º Status Report | Apresentação Final |
 |:-------------------------------------------------------:|:---------------------------------------------------------:|:-------------:|:----------------:|
 |[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)|[SGE](https://slides.com/myllenaalves/kickoff-2/fullscreen)| SGE              | SGE                |
-|[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)| PGP                                                       | PGP              | PGP                |
+|[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)|[PGP](https://slides.com/jussarasilva/kickoff-1/fullscreen)| PGP              | PGP                |
 
 | Modelagens AS-IS                                            |
 |:-----------------------------------------------------------:|
