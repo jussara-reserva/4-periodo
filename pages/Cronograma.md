@@ -40,9 +40,9 @@
 - **26/04/2019: 1 Status Report (PGP).**
 
 #### Até os 2ºs Status Report (SGE e PGP)
-- **14/05/2019: Apresentação do Modelo I\* e de Análise (Ishikawa) (GPN).**
-- **14/05/2019: Entrega do Documento de Processo de Negócio Parcial - Incluindo o Modelo I\* do Processo AS-IS com a Análise do Processo (GPN).**
-- **14/05/2019: Apresentação do Modelo I* e de Análise (GPN).**
+- 30/04/2019: Reunião com Marlos (SGE) [[Ata da reunião]]
+- 14/05/2019: Apresentação do Modelo I\* e de Análise (Ishikawa) (GPN).
+- 14/05/2019: Entrega do Documento de Processo de Negócio Parcial - Incluindo o Modelo I\* do Processo AS-IS com a Análise do Processo (GPN).
 - **14/05/2019: 2º Status Report (SGE).**
 - **17/05/2019: 2º Status Report (PGP).**
 
