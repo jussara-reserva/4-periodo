@@ -15,7 +15,7 @@
 
 ---
 
-### Retrospectiva da Sprint 0
+### Retrospectiva da Sprint 1
 
 ---
 
