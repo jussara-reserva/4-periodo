@@ -44,10 +44,11 @@
 - 02/05 - 06/05/2019: Análise do Insumo - Pessoas, Processos e Ferramentas (Piloto UFPE ID).
 - 02/05 - 07/05/2019: Organização das informações para a modelagem I\* e Diagrama Ishikawa.
 - 04/05/2019: Criação do Plano de Gerenciamento de Cronograma (PGP) [[Disponível aqui]]().
-- 06/05/2019: Desenvolvimento inicial do Cronograma (PGP) [[Disponível aqui]]().
 - 06/05/2019: Desenvolvimento inicial do Orçamento (PGP) [[Disponível aqui]]().
 - 06/05/2019: Criação do Plano de Custos (PGP) [[Disponível aqui]]().
-- 07/05/2019: Reunião com Marlos e Reunião do Time (Retrospectiva da Sprint 2 e Planejamento da Sprint 3) [[Disponível aqui]]().
+- 08/05/2019: Desenvolvimento inicial do Cronograma (PGP) [[Disponível aqui]]().
+- 07/05/2019: Reunião do Time - (Retrospectiva da Sprint 2) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/07-05%20%7C%20Retrospectiva%20da%20Sprint%202.md).
+- 07/05/2019: Reunião com Marlos - (Planejamento da Sprint 3) [[Disponível aqui]]().
 - 14/05/2019: Apresentação do Modelo I\* e de Análise (Ishikawa) (GPN).
 - **14/05/2019: Entrega do Documento de Processo de Negócio Parcial - Incluindo o Modelo I\* do Processo AS-IS com a Análise do Processo (GPN).**
 - **14/05/2019: 2º Status Report (SGE).**
