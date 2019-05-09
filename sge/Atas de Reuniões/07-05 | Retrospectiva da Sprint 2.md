@@ -34,5 +34,5 @@
 
 | Ação                                                                          | Responsável                  |
 |:----------------------------------------------------------------------------- | :--------------------------- |
-| Atualização da reunião de Planejamento de sprint 2                            | Jussara Silva                | 
+| Atualização da reunião de Planejamento de sprint 2                            | Equipe                       | 
 | Estudo de todos os pontos (Piloto UFPE-ID, G SUITE, SIGAA E SIGRH e outros)   | Equipe                       |
