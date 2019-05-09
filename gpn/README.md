@@ -4,8 +4,10 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 
 ### Entregas
 - ~[Descrição em alto nível do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/01%20-%20Descri%C3%A7%C3%A3o%20em%20alto%20n%C3%ADvel.md) (19/03)~
-- [Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS) (09/04)
-- [Documento de Processo de Negócio (Parcial) - Com Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Plano%20de%20implanta%C3%A7%C3%A3o%20do%20m%C3%B3dulo%20de%20integra%C3%A7%C3%A3o%20%C3%BAnica%20.pdf)   (09/04)
+- ~[Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS) (09/04)~
+- ~[Documento de Processo de Negócio (Parcial) - Com Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Plano%20de%20implanta%C3%A7%C3%A3o%20do%20m%C3%B3dulo%20de%20integra%C3%A7%C3%A3o%20%C3%BAnica%20.pdf) (09/04)~
+- Modelos I* e Ishikawa (14/05)
+- Documento de Processo de Negócio (Parcial) - Com Modelos I* e Ishikawa (14/05)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
