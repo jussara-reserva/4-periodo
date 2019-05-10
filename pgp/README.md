@@ -6,7 +6,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - [PM Canvas](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/pm-canvas)
 - [Mind Maps](https://github.com/jussararodrigues/4-periodo/tree/master/pgp/mind-maps) (Toda sexta-feira)
 - [Kick-off do Projeto (29/03)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Kick-off%20Apresenta%C3%A7%C3%A3o.pdf)
-- 1º Status Report (26/04)
+- [1º Status Report (26/04)](https://slides.com/jussarasilva/kickoff-1/fullscreen#/)
 - 2º Status Report (17/05)
 - Apresentação Final (21/06)
 
