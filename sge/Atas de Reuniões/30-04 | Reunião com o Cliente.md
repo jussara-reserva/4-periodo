@@ -28,4 +28,4 @@
 | Ação                                                                   | Responsável  |
 |:---------------------------------------------------------------------- | :----------- |
 | Elaboração dos cronogramas das Sprints 2 e 3                           | Scrum Master |
-| análise do Insumo - Piloto UFPE_ID (Pessoas, Processos e Ferramentas)  | Time         |
+| Análise do insumo - Piloto UFPE_ID (Pessoas, Processos e Ferramentas)  | Time         |
