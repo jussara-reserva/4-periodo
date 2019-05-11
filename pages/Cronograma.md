@@ -45,11 +45,10 @@
 - 02/05 - 07/05/2019: Organização das informações para a modelagem I\* e Diagrama Ishikawa.
 - 02/05 - Criação da planilha de Análise de Stakeholders (SGE). 
 - 04/05/2019: Criação do Plano de Gerenciamento de Cronograma (PGP) [[Disponível aqui]]().
-- 06/05/2019: Desenvolvimento inicial do Orçamento (PGP) [[Disponível aqui]]().
-- 06/05/2019: Criação do Plano de Custos (PGP) [[Disponível aqui]]().
-- 08/05/2019: Desenvolvimento inicial do Cronograma (PGP) [[Disponível aqui]]().
 - 07/05/2019: Criação dos modelos I* (AS-IS) (GPN) [[Disponível aqui]]().
 - 07/05/2019: Reunião do Time - Retrospectiva da Sprint 2 e Planejamento da Sprint 3 [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/07-05%20%7C%20Retrospectiva%20da%20Sprint%202.md).
+- 08/05/2019: Criação do Plano de Custos (PGP) [[Disponível aqui]]().
+- 09/05/2019: Desenvolvimento inicial do Cronograma (PGP) [[Disponível aqui]]().
 - 09/05 - xx/05/2019: Análise dos pontos que envolvem o G-Suite, SIGAA e SIGRH e demais sistemas (SGE).
 - xx/05/2019: Criação dos Diagramas de Ishikawa (GPN) [[Disponível aqui]]().
 - 14/05/2019: Apresentação do Modelo I\* e de Análise (Ishikawa) (GPN).
