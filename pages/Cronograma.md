@@ -40,7 +40,7 @@
 - **26/04/2019: 1 Status Report (PGP).**
 
 #### Até os 2ºs Status Report (SGE e PGP)
-- 30/04 - 04/05/2019: Reunião com Marlos - Whatsapp (SGE) [[Ata da reunião]]().
+- 30/04 - 04/05/2019: Reunião com Marlos - Whatsapp (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/30-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - 02/05 - 06/05/2019: Análise do Insumo - Pessoas, Processos e Ferramentas (Piloto UFPE ID).
 - 02/05 - 07/05/2019: Organização das informações para a modelagem I\* e Diagrama Ishikawa.
 - 02/05 - Criação da planilha de Análise de Stakeholders (SGE). 
