@@ -43,9 +43,9 @@
 ---
 | Kick-Off                                                | 1º Status Report                                          | 2º Status Report | Apresentação Final |
 |:-------------------------------------------------------:|:---------------------------------------------------------:|:-------------:|:----------------:|
-|[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)|[SGE](https://slides.com/myllenaalves/kickoff-2/fullscreen)| SGE              | SGE                |
+|[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)|[SGE](https://slides.com/myllenaalves/kickoff-2/fullscreen)| [SGE](https://slides.com/myllenaalvesdelima/kickoff-1/fullscreen/)| SGE                |
 |[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)|[PGP](https://slides.com/jussarasilva/kickoff-1/fullscreen)| PGP              | PGP                |
 
-| Modelagens AS-IS                                            |
-|:-----------------------------------------------------------:|
-| [GPN](https://slides.com/myllenaalves/kickoff-1/fullscreen) |
+| Modelagens AS-IS                                            | Modelos I* e Diagramas de Ishikawa                          |
+|:-----------------------------------------------------------:||:----------------------------------------------------------:|
+| [GPN](https://slides.com/myllenaalves/kickoff-1/fullscreen) | [GPN](https://slides.com/jussarasilva/kickoff-2/fullscreen/)|
