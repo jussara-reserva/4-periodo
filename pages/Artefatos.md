@@ -47,5 +47,5 @@
 |[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)|[PGP](https://slides.com/jussarasilva/kickoff-1/fullscreen)| PGP              | PGP                |
 
 | Modelagens AS-IS                                            | Modelos I* e Diagramas de Ishikawa                          |
-|:-----------------------------------------------------------:||:----------------------------------------------------------:|
+|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
 | [GPN](https://slides.com/myllenaalves/kickoff-1/fullscreen) | [GPN](https://slides.com/jussarasilva/kickoff-2/fullscreen/)|
