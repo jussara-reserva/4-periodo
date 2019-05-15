@@ -17,10 +17,13 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - [Plano de Gerenciamento de Escopo do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf)
 - [Plano de Gerenciamento de RH](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20RH.pdf)
 - [Estrutura analítica do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/EAP%20Descri%C3%A7%C3%A3o.pdf)
+- [Plano de Gerenciamento de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Cronograma.pdf)
+- [Plano de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Cronograma%20SPRINTS%20(NTI)%20-%20Plano%20de%20cronograma.pdf)
 
 ### Diários
 - [Diário 1 (21/02 à 29/03)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
 - [Diário 2 (01/04 à 26/04)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Di%C3%A1rio%20de%20Atividades%202%20(01_04%20%20-%2026_04).pdf)
+- [Diário 3 (30/04/2019 à 17/05/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Di%C3%A1rio%20de%20Atividades%203%20(30-04%20%20-%2017-05).pdf)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
