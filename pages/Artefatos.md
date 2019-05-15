@@ -19,13 +19,16 @@
 - [Termo de Abertura do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto%20(Revisado).pdf)
 - [Declaração de Escopo do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Declara%C3%A7%C3%A3o%20de%20Escopo%20do%20Projeto%20.pdf)
 - [Plano de Gerenciamento das Comunicações](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.pdf)
-- [Plano de Gerenciamento de Escopo do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf)
+- [Plano de Gerenciamento de Escopo do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf)
 - [Plano de Gerenciamento de RH](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20RH.pdf)
-- [Estrutura Analítica do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/EAP%20Descri%C3%A7%C3%A3o.pdf)
+- [Estrutura Analítica do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/EAP%20Descri%C3%A7%C3%A3o.pdf)
+- [Plano de Gerenciamento de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Cronograma.pdf)
+
 
 #### Diários de Atividades
 - [Diário 1 (21/02/2019 à 29/03/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
 - [Diário 2 (01/04/2019 à 26/04/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Di%C3%A1rio%20de%20Atividades%202%20(01_04%20%20-%2026_04).pdf)
+- [Diário 3 (30/04/2019 à 17/05/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Di%C3%A1rio%20de%20Atividades%203%20(30-04%20%20-%2017-05).pdf)
 
 ### Processos de Negócio (GPN)
 ---
