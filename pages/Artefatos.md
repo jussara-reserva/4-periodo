@@ -23,6 +23,8 @@
 - [Plano de Gerenciamento de RH](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20RH.pdf)
 - [Estrutura Analítica do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/EAP%20Descri%C3%A7%C3%A3o.pdf)
 - [Plano de Gerenciamento de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Cronograma.pdf)
+- [Plano de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Cronograma%20SPRINTS%20(NTI)%20-%20Plano%20de%20cronograma.pdf)
+
 
 
 #### Diários de Atividades
