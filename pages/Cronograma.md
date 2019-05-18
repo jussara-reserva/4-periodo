@@ -43,14 +43,15 @@
 - 30/04 - 04/05/2019: Reunião com Marlos - Whatsapp (SGE) [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/30-04%20%7C%20Reuni%C3%A3o%20com%20o%20Cliente.md).
 - 02/05 - 06/05/2019: Análise do Insumo - Pessoas, Processos e Ferramentas (Piloto UFPE ID).
 - 02/05 - 07/05/2019: Organização das informações para a modelagem I\* e Diagrama Ishikawa.
-- 02/05 - Criação da planilha de Análise de Stakeholders (SGE). 
-- 04/05/2019: Criação do Plano de Gerenciamento de Cronograma (PGP) [[Disponível aqui]]().
-- 07/05/2019: Criação dos modelos I* (AS-IS) (GPN) [[Disponível aqui]]().
+- 02/05 - Criação da planilha de Análise de Stakeholders (SGE) [[Disponível aqui]](https://docs.google.com/spreadsheets/d/1sOmnSkFtUKobPMSty5fZj8MjQ5j7HQl9-c2The37j9I/edit#gid=546141683). 
+- 04/05/2019: Criação do Plano de Gerenciamento de Cronograma (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Cronograma.pdf).
+- 07/05/2019: Criação dos modelos I* (AS-IS) (GPN) [[Adicionar link aqui]]().
 - 07/05/2019: Reunião do Time - Retrospectiva da Sprint 2 e Planejamento da Sprint 3 [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/07-05%20%7C%20Retrospectiva%20da%20Sprint%202.md).
-- 08/05/2019: Criação do Plano de Custos (PGP) [[Disponível aqui]]().
-- 09/05/2019: Desenvolvimento inicial do Cronograma (PGP) [[Disponível aqui]]().
-- 09/05 - xx/05/2019: Análise dos pontos que envolvem o G-Suite, SIGAA e SIGRH e demais sistemas (SGE).
-- xx/05/2019: Criação dos Diagramas de Ishikawa (GPN) [[Disponível aqui]]().
+- 07/05 - 09/05/2019: Análise dos pontos que envolvem o G-Suite, SIGAA e SIGRH e demais sistemas (SGE).
+- 07/05 - 12/05/2019: Criação dos Diagramas de Ishikawa (GPN) [[Adicionar link aqui]]().
+- 08/05/2019: Criação do Plano de Custos (PGP) [[Adicionar link aqui]]().
+- 09/05/2019: Desenvolvimento inicial do Cronograma (PGP) [[Disponível aqui]](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Cronograma%20SPRINTS%20(NTI)%20-%20Plano%20de%20cronograma.pdf).
+- 13/05/2019: Criação da Matriz RACI (SGE) [[Disponível aqui]](https://docs.google.com/spreadsheets/d/1sOmnSkFtUKobPMSty5fZj8MjQ5j7HQl9-c2The37j9I/edit#gid=80213430).
 - 14/05/2019: Apresentação do Modelo I\* e de Análise (Ishikawa) (GPN).
 - **14/05/2019: Entrega do Documento de Processo de Negócio Parcial - Incluindo o Modelo I\* do Processo AS-IS com a Análise do Processo (GPN).**
 - **14/05/2019: 2º Status Report (SGE).**
