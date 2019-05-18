@@ -36,12 +36,11 @@
 ---
 
 #### Documentação
-- [Documento de Processo de Negócio (Parcial) - Com Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Plano%20de%20implanta%C3%A7%C3%A3o%20do%20m%C3%B3dulo%20de%20integra%C3%A7%C3%A3o%20%C3%BAnica%20.pdf)
+- [Documento de Processo de Negócio (Parcial)](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Documento%20de%20Processos%20de%20Neg%C3%B3cio.pdf)
 
 #### Modelagens
 - [Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS)
-- Modelo I*
-- Modelo de Análise (Ishikawa)
+- [Modelos I* e Modelos de Análise (Ishikawa)](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelos%20I%20Estrela%20e%20Diagramas%20de%20Ishikawa)
 - Modelo SD e BPMN (Processo TO-BE + Indicadores)
 
 ### Apresentações
