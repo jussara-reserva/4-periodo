@@ -1,0 +1,186 @@
+{
+  "actors": [
+    {
+      "id": "f6506efc-53b9-4b1a-a442-b506add23bab",
+      "text": "Sistema",
+      "type": "istar.Actor",
+      "x": 740,
+      "y": 270,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "text": "Usuário",
+      "type": "istar.Actor",
+      "x": 274,
+      "y": 269,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "6d2b2fd1-9e0c-4609-9c4d-08ca49d08fda",
+      "text": "Dados solicitados",
+      "type": "istar.Resource",
+      "x": 475,
+      "y": 264,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "f6506efc-53b9-4b1a-a442-b506add23bab",
+      "target": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105"
+    },
+    {
+      "id": "e29a6bb2-ca7f-4af5-baac-33d535e08199",
+      "text": "Acessar o sistema",
+      "type": "istar.Goal",
+      "x": 459,
+      "y": 394,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    },
+    {
+      "id": "77f5175c-c5d7-4d8c-a781-16a7b52178dc",
+      "text": "Autenticar o login e senha",
+      "type": "istar.Task",
+      "x": 467,
+      "y": 321,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    },
+    {
+      "id": "c85541ac-16de-42bc-ab7a-437a07631e69",
+      "text": "Solicitação dos dados",
+      "type": "istar.Task",
+      "x": 464,
+      "y": 191,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    },
+    {
+      "id": "8894eb12-b68c-44e4-99b6-92542a311342",
+      "text": "Disponibilidade do sistema",
+      "type": "istar.Quality",
+      "x": 460,
+      "y": 111,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    }
+  ],
+  "links": [
+    {
+      "id": "ec52261f-6438-43cf-8f55-230897a1da34",
+      "type": "istar.DependencyLink",
+      "source": "f6506efc-53b9-4b1a-a442-b506add23bab",
+      "target": "6d2b2fd1-9e0c-4609-9c4d-08ca49d08fda"
+    },
+    {
+      "id": "5b32193e-f228-485c-86a8-fc9b5a8e2c7b",
+      "type": "istar.DependencyLink",
+      "source": "6d2b2fd1-9e0c-4609-9c4d-08ca49d08fda",
+      "target": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105"
+    },
+    {
+      "id": "e0cb8f10-8ec7-4990-b0f4-430be45ab9e8",
+      "type": "istar.DependencyLink",
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "e29a6bb2-ca7f-4af5-baac-33d535e08199"
+    },
+    {
+      "id": "298e7542-72db-47b4-b491-bd1639a7eb82",
+      "type": "istar.DependencyLink",
+      "source": "e29a6bb2-ca7f-4af5-baac-33d535e08199",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    },
+    {
+      "id": "e6314536-5827-493d-87d6-e94217ce956a",
+      "type": "istar.DependencyLink",
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "77f5175c-c5d7-4d8c-a781-16a7b52178dc"
+    },
+    {
+      "id": "cdbe1415-8e10-46c9-82cb-e8daefe96e1f",
+      "type": "istar.DependencyLink",
+      "source": "77f5175c-c5d7-4d8c-a781-16a7b52178dc",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    },
+    {
+      "id": "4105b143-6cdd-448b-91f9-4c23ec8e6855",
+      "type": "istar.DependencyLink",
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "c85541ac-16de-42bc-ab7a-437a07631e69"
+    },
+    {
+      "id": "9c1c0c22-84ce-4df2-8488-7ef7ed44b01d",
+      "type": "istar.DependencyLink",
+      "source": "c85541ac-16de-42bc-ab7a-437a07631e69",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    },
+    {
+      "id": "0e036a6b-f82d-4aae-b85c-6058f9820eb8",
+      "type": "istar.DependencyLink",
+      "source": "e1b944b5-3a1f-4b9e-95f0-61001e8a2105",
+      "target": "8894eb12-b68c-44e4-99b6-92542a311342"
+    },
+    {
+      "id": "16d3fba8-589f-405d-b844-829463370afc",
+      "type": "istar.DependencyLink",
+      "source": "8894eb12-b68c-44e4-99b6-92542a311342",
+      "target": "f6506efc-53b9-4b1a-a442-b506add23bab"
+    }
+  ],
+  "display": {
+    "e29a6bb2-ca7f-4af5-baac-33d535e08199": {
+      "width": 127.78125,
+      "height": 36
+    },
+    "77f5175c-c5d7-4d8c-a781-16a7b52178dc": {
+      "width": 108.78125,
+      "height": 54
+    },
+    "c85541ac-16de-42bc-ab7a-437a07631e69": {
+      "width": 113.78125,
+      "height": 57
+    },
+    "8894eb12-b68c-44e4-99b6-92542a311342": {
+      "width": 116.81674194335938,
+      "height": 65.00672912597656
+    },
+    "f6506efc-53b9-4b1a-a442-b506add23bab": {
+      "collapsed": true
+    },
+    "e1b944b5-3a1f-4b9e-95f0-61001e8a2105": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.2.0.0",
+  "istar": "2.0",
+  "saveDate": "Tue, 14 May 2019 02:13:06 GMT",
+  "diagram": {
+    "width": 2000,
+    "height": 1346,
+    "name": "Welcome Model",
+    "customProperties": {
+      "Description": "Welcome to the piStar tool! This model describe some of the recent improvements in the tool.\n\nFor help using this tool, please check the Help menu above"
+    }
+  }
+}
