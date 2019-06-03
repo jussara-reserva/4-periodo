@@ -58,6 +58,8 @@
 - **17/05/2019: 2º Status Report (PGP).**
 
 #### Até a Apresentação do Modelo SD e BPMN - Processo TO-BE  + Indicadores (GPN)
+- 28/05: Brainstorming e planejamento sprint 04 [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/28-05%20%7C%20Planejamento%20Sprint%204.md).
+
 - **04/06/2019: Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
 
 #### Até a Apresentação Final (SGE, PGP e GPN)
