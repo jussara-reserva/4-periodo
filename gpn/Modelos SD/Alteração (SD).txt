@@ -1,0 +1,253 @@
+{
+  "actors": [
+    {
+      "id": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "text": "Usuário",
+      "type": "istar.Actor",
+      "x": 140,
+      "y": 244,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0",
+      "text": "Sistema",
+      "type": "istar.Actor",
+      "x": 807,
+      "y": 244,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "57b69b69-b495-41a8-aab0-67a65d0055da",
+      "text": "Alteração de credenciais do UFPE_ID",
+      "type": "istar.Goal",
+      "x": 424,
+      "y": 60,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "e5370b93-0c64-481d-ad97-8d142cc6174f",
+      "text": "Disponibilidade do sistema",
+      "type": "istar.Quality",
+      "x": 428,
+      "y": 127,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "e71ba789-1614-44d2-a509-d27892fefa2c",
+      "text": "Dados solicitados",
+      "type": "istar.Resource",
+      "x": 439,
+      "y": 349,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0",
+      "target": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f"
+    },
+    {
+      "id": "f0db871c-5d69-467e-9ac5-8f258c7448b0",
+      "text": "Validação dos dados informados",
+      "type": "istar.Task",
+      "x": 434,
+      "y": 401,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "dc961f3b-b3bc-412c-b51e-3d325c061910",
+      "text": "Alteração de senha no AD",
+      "type": "istar.Task",
+      "x": 436,
+      "y": 470,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "161dad0f-a177-4af1-8ff8-f873d70066fa",
+      "text": "Processo rápido de alteração de credenciais",
+      "type": "istar.Quality",
+      "x": 428,
+      "y": 196,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "7b27dd00-e80b-46f0-9998-e2152f5aea99",
+      "text": "Processo unificado de alteração de credenciais dos sistemas",
+      "type": "istar.Goal",
+      "x": 408,
+      "y": 272,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    }
+  ],
+  "links": [
+    {
+      "id": "b3f48607-d485-450b-be7d-df80728d8a8c",
+      "type": "istar.DependencyLink",
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "57b69b69-b495-41a8-aab0-67a65d0055da"
+    },
+    {
+      "id": "ea957011-45c1-40ec-8c3a-c90b84b9fa06",
+      "type": "istar.DependencyLink",
+      "source": "57b69b69-b495-41a8-aab0-67a65d0055da",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "297e5e4a-ae3d-4ddc-99f0-cc58e03d3ed7",
+      "type": "istar.DependencyLink",
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "e5370b93-0c64-481d-ad97-8d142cc6174f"
+    },
+    {
+      "id": "ef082aa3-d06d-43c6-a184-ee086bc18d59",
+      "type": "istar.DependencyLink",
+      "source": "e5370b93-0c64-481d-ad97-8d142cc6174f",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "27b59aeb-9748-4d6c-a3c5-78e8b2a93ac1",
+      "type": "istar.DependencyLink",
+      "source": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0",
+      "target": "e71ba789-1614-44d2-a509-d27892fefa2c"
+    },
+    {
+      "id": "2aad0b56-b3e0-4556-b32d-6694eb3df621",
+      "type": "istar.DependencyLink",
+      "source": "e71ba789-1614-44d2-a509-d27892fefa2c",
+      "target": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f"
+    },
+    {
+      "id": "4711f9f9-4925-4ca6-a177-e85d72c6b04a",
+      "type": "istar.DependencyLink",
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "f0db871c-5d69-467e-9ac5-8f258c7448b0"
+    },
+    {
+      "id": "35ccad30-80ce-416e-8b76-e80d482c80c9",
+      "type": "istar.DependencyLink",
+      "source": "f0db871c-5d69-467e-9ac5-8f258c7448b0",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "a1932bdd-39dc-4e69-8181-2c80b6cae89b",
+      "type": "istar.DependencyLink",
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "dc961f3b-b3bc-412c-b51e-3d325c061910"
+    },
+    {
+      "id": "81ce04e6-2810-470f-a89a-9a49e8e4b29a",
+      "type": "istar.DependencyLink",
+      "source": "dc961f3b-b3bc-412c-b51e-3d325c061910",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "d17df9ae-ee7b-41b8-a3d8-01ba6d4cc378",
+      "type": "istar.DependencyLink",
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "7b27dd00-e80b-46f0-9998-e2152f5aea99"
+    },
+    {
+      "id": "5452b3e7-d513-43e3-a7bf-c6271bee23d4",
+      "type": "istar.DependencyLink",
+      "source": "7b27dd00-e80b-46f0-9998-e2152f5aea99",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    },
+    {
+      "id": "31e3a15a-551a-4b5b-ac0b-1e0baa58879b",
+      "type": "istar.DependencyLink",
+      "source": "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f",
+      "target": "161dad0f-a177-4af1-8ff8-f873d70066fa"
+    },
+    {
+      "id": "5276f8cc-93c9-4467-9d9f-6f0ee8866b22",
+      "type": "istar.DependencyLink",
+      "source": "161dad0f-a177-4af1-8ff8-f873d70066fa",
+      "target": "db6a53a7-85f9-41ae-9365-ff66d38cd3b0"
+    }
+  ],
+  "display": {
+    "bd3c7b46-d35b-4b33-b9b1-c5601dfdcf6f": {
+      "collapsed": true
+    },
+    "db6a53a7-85f9-41ae-9365-ff66d38cd3b0": {
+      "collapsed": true
+    },
+    "57b69b69-b495-41a8-aab0-67a65d0055da": {
+      "backgroundColor": "#AFCBFA",
+      "width": 126.0078125,
+      "height": 53.341148376464844
+    },
+    "e5370b93-0c64-481d-ad97-8d142cc6174f": {
+      "backgroundColor": "#AFCBFA",
+      "width": 111.04098510742188,
+      "height": 59.34729766845703
+    },
+    "e71ba789-1614-44d2-a509-d27892fefa2c": {
+      "backgroundColor": "#AFCBFA",
+      "width": 98.78125,
+      "height": 43
+    },
+    "f0db871c-5d69-467e-9ac5-8f258c7448b0": {
+      "backgroundColor": "#AFCBFA",
+      "width": 107.0078125,
+      "height": 56.341148376464844
+    },
+    "dc961f3b-b3bc-412c-b51e-3d325c061910": {
+      "backgroundColor": "#AFCBFA",
+      "width": 105.0078125,
+      "height": 53.341148376464844
+    },
+    "161dad0f-a177-4af1-8ff8-f873d70066fa": {
+      "backgroundColor": "#AFCBFA",
+      "width": 118.81704711914062,
+      "height": 58.006011962890625
+    },
+    "7b27dd00-e80b-46f0-9998-e2152f5aea99": {
+      "backgroundColor": "#AFCBFA",
+      "width": 165.78125,
+      "height": 55
+    }
+  },
+  "tool": "pistar.2.0.0",
+  "istar": "2.0",
+  "saveDate": "Tue, 11 Jun 2019 18:12:38 GMT",
+  "diagram": {
+    "width": 2000,
+    "height": 1300,
+    "name": "Welcome Model",
+    "customProperties": {
+      "Description": "Welcome to the piStar tool! This model describe some of the recent improvements in the tool.\n\nFor help using this tool, please check the Help menu above"
+    }
+  }
+}
