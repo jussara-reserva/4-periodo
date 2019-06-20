@@ -9,11 +9,14 @@
 
 #### Ferramentas utilizadas pela equipe ao decorrer do projeto.
 
-| Ferramenta   | Finalidade                                             |
-|:-------------|:-------------------------------------------------------|
-| Whatsapp     | Comunicação Interna (informal)                         |
-| Slack        | Comunicação Interna (formal) e Externa (Com o cliente) |
-| Trello       | Gerenciamento de prazos e atividades                   |
-| Google Drive | Armazenamento de Artefatos (em construção)             |
-| GitHub       | Armazenamento de Artefatos (finalizados)               |
-| Scrum        | Gerenciamento do Projeto                               |
+| Ferramenta     | Finalidade                                                    |
+|:---------------|:--------------------------------------------------------------|
+| Whatsapp       | Comunicação Interna (Time)                                    |
+| Slack          | Comunicação Interna (Time) e Externa (Cliente e Orientadores) |
+| Gmail          | Comunicação Externa (Cliente e Orientadores)                  |
+| Trello         | Gerenciamento de prazos e atividades                          |
+| Google Drive   | Armazenamento de Artefatos (Em construção)                    |
+| GitHub         | Armazenamento de Artefatos (Finalizados)                      |
+| Bizagi Modeler | Modelagens BPMN                                               |
+| piStar Tool    | Modelos I*                                                    |
+| Scrum          | Gerenciamento do Projeto                                      |
