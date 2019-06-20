@@ -57,11 +57,16 @@
 - **14/05/2019: 2º Status Report (SGE).**
 - **17/05/2019: 2º Status Report (PGP).**
 
-#### Até a Apresentação do Modelo SD e BPMN - Processo TO-BE  + Indicadores (GPN)
+#### Até a Apresentação do Modelo SD e BPMN - Processo TO-BE  + Indicadores (GPN) e Apresentação Final (GPN, PGP e SGE)
 - 28/05: Brainstorming e planejamento sprint 04 [[Ata da reunião]](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Atas%20de%20Reuni%C3%B5es/28-05%20%7C%20Planejamento%20Sprint%204.md).
-
-- **04/06/2019: Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
-
-#### Até a Apresentação Final (SGE, PGP e GPN)
-- **13/06/2019: Entrega do documento de processo de negócio completo (GPN).**
-- **21/06/2019: Apresentação Final (SGE, PGP e GPN).**
+- 20/05 - 18/06: Desenvolvimento inicial do  Plano de qualidade/critérios de aceitação do produto.
+- 23/05 - 06/06: Construção Modelo SD  e BPMN - processo TO-BE + indicadores e da apresentação.
+- 04/06: Acompanhamento do projeto (Time trabalhando junto).
+- 06/06: Finalização do documento de processo de negócio completo.
+- 06/06: Executar projeto - Prática (Validação da estrutura do plano de implantação).
+- 13/06: Executar Acompanhamento do projeto (Time trabalhando junto) - Prática (time) e construção da apresentação.
+- 14/06: Retrospectiva com Marlos e validação.
+- 15/06: Entrega do documento de processo de negócio completo.
+- 20/06: Retrospectiva da sprint e construção do  Relatório de Encerramento / Lições Aprendidas.
+- **25/06/2019: Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
+- **27/06/2019: Apresentação Final (SGE, PGP e GPN).**
