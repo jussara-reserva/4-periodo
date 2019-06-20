@@ -23,7 +23,13 @@
 - [Plano de Gerenciamento de RH](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20RH.pdf)
 - [Estrutura Analítica do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/EAP%20Descri%C3%A7%C3%A3o.pdf)
 - [Plano de Gerenciamento de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Cronograma.pdf)
-- [Plano de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Cronograma%20SPRINTS%20(NTI)%20-%20Plano%20de%20cronograma.pdf)
+- [Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Cronograma%20SPRINTS%20(NTI)%20-%20Plano%20de%20cronograma.pdf)
+- [Plano de Gerenciamento de Custos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20Gerenciamento%20de%20Custos.pdf)
+- [Orçamento](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Or%C3%A7amento.pdf)
+- [Plano de Gerenciamento de Riscos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20Gerenciamento%20de%20Riscos.pdf)
+- [Matriz de Riscos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Matriz%20de%20Riscos.pdf)
+- Plano de Qualidade / Critérios de Aceitação do Produto
+- Relatório de Encerramento / Lições Aprendidas
 
 
 
@@ -31,17 +37,19 @@
 - [Diário 1 (21/02/2019 à 29/03/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
 - [Diário 2 (01/04/2019 à 26/04/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Di%C3%A1rio%20de%20Atividades%202%20(01_04%20%20-%2026_04).pdf)
 - [Diário 3 (30/04/2019 à 17/05/2019)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Di%C3%A1rio%20de%20Atividades%203%20(30-04%20%20-%2017-05).pdf)
+- Diário 4 (20/05 à 27/06)
 
 ### Processos de Negócio (GPN)
 ---
 
 #### Documentação
-- [Documento de Processo de Negócio (Parcial)](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Documento%20de%20Processos%20de%20Neg%C3%B3cio.pdf)
+- [Documento de Processo de Negócio](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Documento%20de%20Processo%20de%20Neg%C3%B3cio%20(Final).pdf)
 
 #### Modelagens
 - [Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20AS-IS)
 - [Modelos I* e Modelos de Análise (Ishikawa)](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelos%20I%20Estrela%20e%20Diagramas%20de%20Ishikawa)
-- Modelo SD e BPMN (Processo TO-BE + Indicadores)
+- [Modelagens TO-BE](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelagens%20TO-BE)
+- [Modelos SD](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelos%20SD)
 
 ### Apresentações
 ---
@@ -50,6 +58,6 @@
 |[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)|[SGE](https://slides.com/myllenaalves/kickoff-2/fullscreen)| [SGE](https://slides.com/myllenaalvesdelima/kickoff-1/fullscreen/)| SGE                |
 |[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)|[PGP](https://slides.com/jussarasilva/kickoff-1/fullscreen)| [PGP](https://slides.com/myllenaalvesdelima/kickoff/fullscreen)| PGP                |
 
-| Modelagens AS-IS                                            | Modelos I* e Diagramas de Ishikawa                          |
-|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
-| [GPN](https://slides.com/myllenaalves/kickoff-1/fullscreen) | [GPN](https://slides.com/jussarasilva/kickoff-2/fullscreen/)|
+| Modelagens AS-IS                     | Modelos I* e Diagramas de Ishikawa            | Modelagens TO-BE, SD e Indicadores |
+|:------------------------------------:|:---------------------------------------------:|:----------------------------------:|
+| [GPN](https://slides.com/myllenaalves/kickoff-1/fullscreen) | [GPN](https://slides.com/jussarasilva/kickoff-2/fullscreen/)| [GPN](https://slides.com/jussarasilva/kickoff-1-3/fullscreen) |
