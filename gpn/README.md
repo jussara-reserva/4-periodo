@@ -8,6 +8,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - ~[Documento de Processo de Negócio (Parcial) - Com Modelagens AS-IS](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Plano%20de%20implanta%C3%A7%C3%A3o%20do%20m%C3%B3dulo%20de%20integra%C3%A7%C3%A3o%20%C3%BAnica%20.pdf) (09/04)~
 - ~[Modelos I* e Ishikawa](https://github.com/jussararodrigues/4-periodo/tree/master/gpn/Modelos%20I%20Estrela%20e%20Diagramas%20de%20Ishikawa) (14/05)~
 - ~[Documento de Processo de Negócio (Parcial) - Com Modelos I* e Ishikawa](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Documento%20de%20Processos%20de%20Neg%C3%B3cio.pdf) (14/05)~
+- ~[Documento de Processo de Negócio (Completo)](https://github.com/jussararodrigues/4-periodo/blob/master/gpn/Documento%20de%20Processo%20de%20Neg%C3%B3cio%20(Final).pdf) (15/06)~
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
