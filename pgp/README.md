@@ -23,14 +23,15 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - [Orçamento](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Or%C3%A7amento.pdf)
 - [Plano de Gerenciamento de Riscos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20Gerenciamento%20de%20Riscos.pdf)
 - [Matriz de Riscos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Matriz%20de%20Riscos.pdf)
-- Plano de Qualidade / Critérios de Aceitação do Produto
+- [Plano de Gerenciamento da Qualidade](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20qualidade.pdf)
+- [Termo de Encerramento do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Termo%20de%20encerramento%20do%20projeto.pdf)
 - Relatório de Encerramento / Lições Aprendidas
 
 ### Diários
 - [Diário 1 (21/02 à 29/03)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
 - [Diário 2 (01/04 à 26/04)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Di%C3%A1rio%20de%20Atividades%202%20(01_04%20%20-%2026_04).pdf)
 - [Diário 3 (30/04 à 17/05)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Di%C3%A1rio%20de%20Atividades%203%20(30-04%20%20-%2017-05).pdf)
-- Diário 4 (20/05 à 27/06)
+- [Diário 4 (20/05 à 27/06)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Di%C3%A1rio%20de%20Atividades.pdf)
 
 ### Equipe
 - [Daniel Silva](https://github.com/shirubadan) (djs)
