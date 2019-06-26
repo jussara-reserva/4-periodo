@@ -11,7 +11,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - Apresentação Final (21/06)
 
 ### Documentos
-- [Termo de Abertura do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto.pdf)
+- [Termo de Abertura do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto%20(Revisado).pdf)
 - [Declaração de Escopo do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Declara%C3%A7%C3%A3o%20de%20Escopo%20do%20Projeto%20.pdf)
 - [Plano de Gerenciamento das Comunicações](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.pdf)
 - [Plano de Gerenciamento de Escopo do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf)
