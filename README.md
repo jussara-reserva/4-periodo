@@ -22,7 +22,6 @@ Os principais problemas são:
 - Credencial única a todos os sistemas e qualquer alteração realizada no UFPE ID.
 - Chave de acesso para todos os sistemas;
 - A não efetividade do e-mail institucional existente.
-- Contra inovação e/ou sistemas americanos.
 
 ### Objetivo
 Criação do plano de implantação do UFPE ID e do G-Suite, utilizando o SIGAA e o SIGRH como bases de dados para verificação da identidade dos usuários.
