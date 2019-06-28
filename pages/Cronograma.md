@@ -68,5 +68,6 @@
 - 14/06: Retrospectiva com Marlos e validação.
 - 15/06: Entrega do documento de processo de negócio completo.
 - 20/06: Retrospectiva da sprint e construção do  Relatório de Encerramento / Lições Aprendidas.
-- **25/06/2019: Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
 - **27/06/2019: Apresentação Final (SGE, PGP e GPN).**
+- **04/07/2019: Apresentação do Modelo SD e BPMN - Processo TO-BE + Indicadores (GPN).**
+
