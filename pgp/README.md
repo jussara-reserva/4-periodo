@@ -8,15 +8,15 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - [Kick-off do Projeto (29/03)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Kick-off%20Apresenta%C3%A7%C3%A3o.pdf)
 - [1º Status Report (26/04)](https://slides.com/jussarasilva/kickoff-1/fullscreen#/)
 - [2º Status Report (17/05)](https://slides.com/myllenaalvesdelima/kickoff-1/fullscreen/#/)
-- Apresentação Final (21/06)
+- [Apresentação Final(27/06)] (https://github.com/jussararodrigues/4-periodo/blob/master/sge/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20final.pdf)
 
 ### Documentos
 - [Termo de Abertura do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto%20(Revisado).pdf)
 - [Declaração de Escopo do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Declara%C3%A7%C3%A3o%20de%20Escopo%20do%20Projeto%20.pdf)
 - [Plano de Gerenciamento das Comunicações](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20das%20Comunica%C3%A7%C3%B5es.pdf)
-- [Plano de Gerenciamento de Escopo do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf)
+- [Plano de Gerenciamento de Escopo do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Escopo%20do%20projeto.pdf)
 - [Plano de Gerenciamento de RH](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/Plano%20de%20Gerenciamento%20de%20RH.pdf)
-- [Estrutura analítica do projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%202/EAP%20Descri%C3%A7%C3%A3o.pdf)
+- [Estrutura Analítica do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/EAP%20Descri%C3%A7%C3%A3o.pdf)
 - [Plano de Gerenciamento de Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Plano%20de%20Gerenciamento%20de%20Cronograma.pdf)
 - [Cronograma](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%203/Cronograma%20SPRINTS%20(NTI)%20-%20Plano%20de%20cronograma.pdf)
 - [Plano de Gerenciamento de Custos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20Gerenciamento%20de%20Custos.pdf)
@@ -25,7 +25,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - [Matriz de Riscos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Matriz%20de%20Riscos.pdf)
 - [Plano de Gerenciamento da Qualidade](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20qualidade.pdf)
 - [Termo de Encerramento do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Termo%20de%20encerramento%20do%20projeto.pdf)
-- Relatório de Encerramento / Lições Aprendidas
+- [Relatório de Encerramento / Lições Aprendidas](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Relatorio%20de%20encerramento%20-%20Licoes%20Aprendidas.pdf)
 
 ### Diários
 - [Diário 1 (21/02 à 29/03)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Di%C3%A1rio%20de%20Atividades%201%20(21-02%20-%2029-03).pdf)
