@@ -30,7 +30,7 @@
 - [Matriz de Riscos](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Matriz%20de%20Riscos.pdf)
 - [Plano de Gerenciamento da Qualidade](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20qualidade.pdf)
 - [Termo de Encerramento do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Termo%20de%20encerramento%20do%20projeto.pdf)
-- Relatório de Encerramento / Lições Aprendidas
+- [Relatório de Encerramento / Lições Aprendidas](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Relatorio%20de%20encerramento%20-%20Licoes%20Aprendidas.pdf)
 
 
 
@@ -56,8 +56,8 @@
 ---
 | Kick-Off                                                | 1º Status Report                                          | 2º Status Report | Apresentação Final |
 |:-------------------------------------------------------:|:---------------------------------------------------------:|:-------------:|:----------------:|
-|[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)|[SGE](https://slides.com/myllenaalves/kickoff-2/fullscreen)| [SGE](https://slides.com/myllenaalvesdelima/kickoff-1/fullscreen/)| SGE                |
-|[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)|[PGP](https://slides.com/jussarasilva/kickoff-1/fullscreen)| [PGP](https://slides.com/myllenaalvesdelima/kickoff/fullscreen)| PGP                |
+|[SGE](https://slides.com/myllenaalves/kickoff/fullscreen)|[SGE](https://slides.com/myllenaalves/kickoff-2/fullscreen)| [SGE](https://slides.com/myllenaalvesdelima/kickoff-1/fullscreen/)| [SGE](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20final.pdf)                |
+|[PGP](https://slides.com/jussarasilva/kickoff/fullscreen)|[PGP](https://slides.com/jussarasilva/kickoff-1/fullscreen)| [PGP](https://slides.com/myllenaalvesdelima/kickoff/fullscreen)| [PGP](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20final.pdf)                |
 
 | Modelagens AS-IS                     | Modelos I* e Diagramas de Ishikawa            | Modelagens TO-BE, SD e Indicadores |
 |:------------------------------------:|:---------------------------------------------:|:----------------------------------:|
