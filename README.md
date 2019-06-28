@@ -24,7 +24,7 @@ Os principais problemas são:
 - A não efetividade do e-mail institucional existente.
 
 ### Objetivo
-Criação do plano de implantação do UFPE ID e do G-Suite, utilizando o SIGAA e o SIGRH como bases de dados para verificação da identidade dos usuários.
+Criação do [plano de implantação](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Plano%20de%20Implanta%C3%A7%C3%A3o.pdf) do UFPE ID e do G-Suite, utilizando o SIGAA e o SIGRH como bases de dados para verificação da identidade dos usuários.
 
 ### Justificativa
 Com o advento da implantação do SIGAA, SIGRH e a substituição do Zimbra (email institucional) pela plataforma do G-Suite, se faz necessário uma remodelagem das regras de negócio no sistema de integração projetado pelo NTI. O UFPE_ID é um sistema que começou a ser desenvolvido pelo NTI com o objetivo de fornecer uma autenticação única para todos os SIG’s disponíveis para comunidade acadêmica.
