@@ -10,6 +10,7 @@
 ### Documentos (Geral)
 ---
 
+- [Plano de Implantação](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Plano%20de%20Implanta%C3%A7%C3%A3o.pdf)
 - [Atas de Reuniões](https://github.com/jussararodrigues/4-periodo/tree/master/sge/Atas%20de%20Reuni%C3%B5es)
 
 ### Planejamento (PGP)
@@ -31,7 +32,6 @@
 - [Plano de Gerenciamento da Qualidade](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Plano%20de%20qualidade.pdf)
 - [Termo de Encerramento do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Termo%20de%20encerramento%20do%20projeto.pdf)
 - [Relatório de Encerramento / Lições Aprendidas](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%204/Relatorio%20de%20encerramento%20-%20Licoes%20Aprendidas.pdf)
-
 
 
 #### Diários de Atividades
