@@ -8,7 +8,7 @@ Disciplina do curso de Sistemas de Informação, ministrada no Centro de Inform�
 - [Kick-off do Projeto (29/03)](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/Kick-off%20Apresenta%C3%A7%C3%A3o.pdf)
 - [1º Status Report (26/04)](https://slides.com/jussarasilva/kickoff-1/fullscreen#/)
 - [2º Status Report (17/05)](https://slides.com/myllenaalvesdelima/kickoff-1/fullscreen/#/)
-- [Apresentação Final(27/06)] (https://github.com/jussararodrigues/4-periodo/blob/master/sge/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20final.pdf)
+- [Apresentação Final(27/06)](https://github.com/jussararodrigues/4-periodo/blob/master/sge/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20final.pdf)
 
 ### Documentos
 - [Termo de Abertura do Projeto](https://github.com/jussararodrigues/4-periodo/blob/master/pgp/artefatos/Entregas%201/G-Suite%20-%20Termo%20de%20abertura%20de%20Projeto%20(Revisado).pdf)
